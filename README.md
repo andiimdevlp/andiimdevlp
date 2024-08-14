@@ -4,7 +4,6 @@
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvlp/)
 [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=black)](mailto:anderson.santos.nascimento@protonmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/andiim_scofield)
 
 ![Andiim GitHub stats](https://github-readme-stats.vercel.app/api?username=andiimdevlp&show_icons=true&theme=dracula&count_private=true)
 
